@@ -7,7 +7,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 Visit the website:  
 [https://abubakar-engineer.github.io/portfolio/](https://abubakar-engineer.github.io/portfolio/)
 
-*(Replace `your-username` with your actual GitHub username.)*
+
 
 ##  Built With
 
@@ -18,10 +18,9 @@ Visit the website:
 
  📁 Project Structure
  portfolio/
-│
-├── index.html
-├── style.css (if you have a separate CSS file)
-├── script.js (if you have a separate JS file)
+1) index.html
+2) style.css (if you have a separate CSS file)
+3) script.js (if you have a separate JS file)
 
 
 ##  Features
